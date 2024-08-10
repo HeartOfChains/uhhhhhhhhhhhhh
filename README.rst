@@ -1,7 +1,7 @@
 Lupa
 ====
 
-.. image:: logo/logo-220x200.png
+.. image:: logo/UHHHHHHHHH.png
 
 Lupa integrates the runtimes of Lua_ or LuaJIT2_ into CPython.
 It is a partial rewrite of LunaticPython_ in Cython_ with some
